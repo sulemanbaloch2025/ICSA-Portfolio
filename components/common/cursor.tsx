@@ -71,7 +71,7 @@ const Cursor = ({ isDesktop }: IDesktop) => {
     if (isDesktop && !isSmallScreen()) {
       initCursorAnimation();
     }
-  }, [cursor, follower, isDesktop]);
+  }, []);
 
   return (
     <>

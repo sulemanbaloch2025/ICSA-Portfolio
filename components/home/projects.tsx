@@ -131,7 +131,7 @@ const ProjectsSection = ({ isDesktop }: IDesktop) => {
       <p className="section-title-sm seq">ICSA</p>
       <h1 className="section-heading seq mt-2">Our Plans for 2023-24</h1>
       <h2 className="text-2xl md:max-w-3xl w-full seq max-w-sm mt-2">
-        "Unlock Your Coding Journey: Leetcode Workshop, Resume Builder, Portfolio, Hackathons, Web Dev Workshops and Beyond!"
+        &quot;Unlock Your Coding Journey: Leetcode Workshop, Resume Builder, Portfolio, Hackathons, Web Dev Workshops and Beyond!&quot;
       </h2>
     </div>
   );
