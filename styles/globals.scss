@@ -224,6 +224,13 @@ a {
 .project-wrapper::-webkit-scrollbar {
   display: none;
 }
+.seq {
+  will-change: transform;
+}
+
+.project-wrapper {
+  -webkit-overflow-scrolling: touch;
+}
 
 .skill {
   padding-right: 1.25rem !important;
