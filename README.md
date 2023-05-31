@@ -1,30 +1,18 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## FOLIO
+International Computer Science Association Portfolio Website
 
-[Live Demo](https://ayushsingh.net/)
+Live Demo: https://icsa-portfolio-emvr-sulemanbaloch2025.vercel.app
 
-To cater to my goal of having my own portfolio website since 2016 🚀
+This repository contains the source code for the International Computer Science Association's portfolio website, developed using Next.js and TypeScript. The portfolio website serves as a platform to showcase the work of the association's members and provide information about their projects, research, and achievements.
 
-## How did I create this?
+Features
+Dynamic Content: The portfolio website allows members to create and manage their profiles, including their personal information, projects, and publications.
+Responsive Design: The website is built with a responsive design to ensure optimal viewing experience across various devices.
+Before running the portfolio website locally or deploying it, ensure you have the following prerequisites installed:
 
-1. UI/UX is brainstormed using inspiration from winning portfolios from awwwards. High-fidelity mockup aggregating the ideas using Figma.
-2. This project uses React for simplicity to break down sections as components. Also uses next.js to achieve SSG. SVGs have been animated using CSS.
-3. Section scrolling and reveal animations uses GSAP. Card interactions use Tilt js. The timeline section was built using JS/SVGs and animated via GSAP.
-4. Optimised animations, layer management, repaints, and re-layouts using Chrome dev tools.
+Node.js (version 12 or higher)
+npm (Node Package Manager) or yarn
+Getting Started
+To get a local copy of the portfolio website up and running, follow these steps:
 
-## How to run on local?
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## A note on re-sharing
-
-I have been refining the project using 7+ years of my learnings. While I appreciate the beauty of open source, due credits to the project will be appreciated if you plan to re-share the template. Copyright headers with author name should be included under the forked versions as well. Happy coding :)
